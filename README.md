@@ -10,7 +10,7 @@ Admin Login: www.onegreatapp.com/arsha-wp/wp-admin
 
 Username: demo
 
-Password: Password
+Password: password
 
-##### Disclaimer
+#### Disclaimer
 Use at your risk, the theme was built for my educational purposes.
