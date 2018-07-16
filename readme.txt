@@ -9,11 +9,11 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A starter theme called Arsha.
+A starter theme called Arsha-WP.
 
 == Description ==
 
-A custom Wordpress theme using template Arsha
+A custom Wordpress theme based on the free HTML template Arsha.
 
 == Installation ==
 
