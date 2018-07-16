@@ -13,4 +13,4 @@ Username: demo
 Password: password
 
 #### Disclaimer
-Use at your risk, the theme was built for my educational purposes.
+The theme was built for my educational purposes and not meant for production.
