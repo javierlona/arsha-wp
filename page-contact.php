@@ -15,9 +15,12 @@
         <button class="btn-primarys">
         <h3>Send us a message</h3></button>
       </div>
-      <?php while(have_posts()) : the_post(); ?>
-        <?php the_content(); ?>
-      <?php endwhile; // end the loop ?>
+      <!-- Display content inside the visual editor page of contact page  -->
+      <?php
+        while(have_posts()) : the_post();
+          the_content();
+        endwhile;
+       ?>
     </div>
     <div class="col-lg-6">
       <div class="recent">
